@@ -29,14 +29,25 @@
   },
   {
     "id": 5,
+    "title": "Cheers Darling",
+    "artist": "Damien Rice",
+    "releaseDate": "2017"
+  },
+  {"id": 6,
     "title": "New song",
     "artist": "Moi",
     "releaseDate": "2020"
   },
   {
-    "id": 6,
+    "id": 53,
     "title": "The Air Near My Fingers",
     "artist": "The White Stripes",
     "releaseDate": "2000"
+  }, 
+  {
+    "id": 7,
+    "title": "shallows",
+    "artist": "lady gaga",
+    "releaseDate": "2019"
   }
 ]
