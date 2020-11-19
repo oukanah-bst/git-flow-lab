@@ -29,6 +29,11 @@
   },
   {
     "id": 5,
+    "title": "Cheers Darling",
+    "artist": "Damien Rice",
+    "releaseDate": "2017"
+  },
+  {"id": 6,
     "title": "New song",
     "artist": "Moi",
     "releaseDate": "2020"
