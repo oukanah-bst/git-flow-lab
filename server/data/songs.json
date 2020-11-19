@@ -29,6 +29,12 @@
   },
   {
     "id": 5,
+    "title": "New song",
+    "artist": "Moi",
+    "releaseDate": "2020"
+  },
+  {
+    "id": 6,
     "title": "The Air Near My Fingers",
     "artist": "The White Stripes",
     "releaseDate": "2000"
